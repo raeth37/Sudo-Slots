@@ -1,2 +1,2 @@
 # Sudo-Slots
-Run on VM; slot game on files.
+Run on VM; Slot Game with files.
